@@ -2,3 +2,16 @@
  * SASS code SPECIFIC TO your home page
  * (margin/padding adjustments, background image, etc..)
  * ------------------------------------- */
+
+ .logo img {
+  width: 100px;
+ }
+
+ .seguin-button {
+  background-color: #F6F5F1;
+  color: black;
+  border-radius: 40px;
+  border-color: #A18C89;
+  border-style: double;
+  border-width: 3px;
+ }
