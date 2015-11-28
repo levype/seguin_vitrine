@@ -4,7 +4,7 @@
  * ------------------------------------- */
 
  .logo img {
-  width: 100px;
+  width: 75px;
  }
 
  .seguin-button {
@@ -15,3 +15,8 @@
   border-style: double;
   border-width: 3px;
  }
+
+.bg-home {
+  background-image: image-url('plancha.jpg');
+  opacity: 0.75;
+}
